@@ -1,0 +1,4 @@
+*.py
+VSCode/
+.ipynb_checkpoints/
+gesture/
