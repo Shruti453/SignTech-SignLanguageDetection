@@ -1,7 +1,7 @@
 *.py
 VSCode/
 .ipynb_checkpoints/
-gesture1/
+
 best_model_dataflair_grayedges.h5
 best_model_dataflair.h5
 
